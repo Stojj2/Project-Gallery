@@ -20,5 +20,5 @@ from Gallery import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.say_hello, name="say_hello"),
+    path('', views.home, name="home"),
 ]
