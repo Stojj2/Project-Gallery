@@ -1,0 +1,12 @@
+main > div h3  {
+    font-family: 'Montserrat', Times, serif;
+    font-weight: 800;
+    font-size: large;
+    text-transform: uppercase;
+}
+
+main > div p  {
+    font-family: 'Montserrat', Times, serif;
+    font-weight: 300;
+    font-size: medium;
+}
