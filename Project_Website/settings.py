@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['8000-stojj2-projectgallery-undmyhjxyda.ws-eu116.gitpod.io']
+ALLOWED_HOSTS = ['8000-stojj2-projectgallery-undmyhjxyda.ws-eu116.gitpod.io', 'https://scubasite-gallery-42aaba327af3.herokuapp.com/']
 
 
 # Application definition
